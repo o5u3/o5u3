@@ -1,18 +1,16 @@
-## Hi there 👋
 
-🔭 I’m currently working on Free Emotes v2
+##### 👁
+##### See
+##### [You](https://youtu.be/dQw4w9WgXcQ)
 
-<!--
-**o5u3/o5u3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+![Logo](https://i.pinimg.com/originals/6e/94/2a/6e942a0a67ee3a973e992ebec60ac9bf.gif)
 
-Here are some ideas to get you started:
-- Hi there 👋 -
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+## Used By
+
+This account is used by the following people:
+- aWx5
+- null\n
+
+  
