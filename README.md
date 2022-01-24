@@ -9,7 +9,6 @@
 - 😎 Languages I know: Lua & Partial JavaScript.
 - 🤔 I'm currently learning JavaScript.
 - 📫 How to reach me: Discord (https://discord.gg/tU87b6w).
-- 😐 I work on my projects solo, but if you'd like to collab feel free to DM.
 
 <!--
 Here are some ideas to get you started:
