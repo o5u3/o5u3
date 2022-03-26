@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🏷️ I prefer to be called Kiwi.
-- ⚒️ I'm currently working on two Lua projects: Free Emotes V2 & Event Bypasser.
+- ⚒️ I'm currently working on two Lua projects: Free Emotes & Event Bypasser.
 - 😎 Languages I know: Lua & Partial JavaScript.
 - 🤔 I'm currently learning JavaScript.
 - 📫 How to reach me: Discord (https://discord.gg/tU87b6w).
