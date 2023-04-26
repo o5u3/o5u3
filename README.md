@@ -32,6 +32,3 @@ This account is used by the following people:
 ![https://wdmcserver.uksouth.cloudapp.azure.com/invite](https://github-readme-stats.vercel.app/api?username=o5u3&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
     
     
-## What happened to the Discord Server?
-
-I've decided to take a huge break and a fresh start and so I've deleted the discord server. Will there be a new discord server? Yes, I'll publicly announce the new discord server link in upcoming YouTube videos on the "o5u3" channel in the description.
