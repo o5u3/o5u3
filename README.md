@@ -1,7 +1,7 @@
 ## 👋 Hi there
 - 📫 How to reach me: ``@kjwl`` via. Discord
   
-- 🔭 I’m currently working on: [Roblox Client Optimizer](https://github.com/o5u3/Roblox-Client-Optimizer)
+- 🔭 I’m currently working on: ???
 
 - 👯 I’m looking to collaborate on: **Roblox-Related Projects**
 
